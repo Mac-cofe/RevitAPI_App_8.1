@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddins>
+	<AddIn Type="Command">
+		<Assembly>C:\RevitAPITraining\RevitAPI_App_8.1.dll</Assembly>
+		<AddInId>CE4CDD7A-043C-4B9E-B0F7-A1FBCB14BF27</AddInId>
+		<FullClassName>RevitAPI_App_8.1.Main</FullClassName>
+		<VendorIT>ADSK</VendorIT>
+		<Text>ЭКСПОРТ В IFC</Text>
+	</AddIn>
+</RevitAddins>
